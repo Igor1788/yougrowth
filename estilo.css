@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.pedacinho {
+    width: 60%;
+    margin: auto;
+}
+.btn {
+    margin: auto;
+    align-self: flex-start;
+}
